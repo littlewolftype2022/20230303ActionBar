@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20230303ActionBar</string>
+    <string name="ationbar_title">WTF?</string>
+    <string name="delete">delete?</string>
+    <string name="add">add?</string>
+    <string name="email">email?</string>
+</resources>
